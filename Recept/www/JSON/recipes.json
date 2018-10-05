@@ -1,0 +1,1268 @@
+[
+  {
+    "name": "Bacon Sallad",
+    "categories": "Kött",
+    "persons": 4,
+    "description": "Delicious Bacon Salad",
+    "firstIngredient": [
+      {
+        "name": "Soltorkade tomater i olja",
+        "units": 1,
+        "measuringUnit": "g",
+        "EqGrams": 1
+      }
+    ],
+    "ingredients": [
+      {
+        "name": "Röd Lök",
+        "units": 1,
+        "measuringUnit": "st",
+        "EqGrams": 0
+      },
+      {
+        "name": "Sallad",
+        "units": 1,
+        "measuringUnit": "st",
+        "EqGrams": 0
+      },
+      {
+        "name": "Oliv Olja",
+        "units": 2,
+        "measuringUnit": "tsk",
+        "EqGrams": 0
+      },
+      {
+        "name": "Dijon Senap",
+        "units": 1,
+        "measuringUnit": "tsk",
+        "EqGrams": 0
+      },
+      {
+        "name": "Bacon",
+        "units": 8,
+        "measuringUnit": "st",
+        "EqGrams": 0
+      },
+      {
+        "name": "Brödskiva",
+        "units": 4,
+        "measuringUnit": "st",
+        "EqGrams": 0
+      }
+    ],
+    "instructions": [
+      "Värmugn till 200C",
+      "Gör dressingen genom att blanda ½ msk olja, senap och kryddor",
+      "Hacka löken fint",
+      "Stek bacon",
+      "Hacka sallad och lägg i en skål, lägg till dressing och blanda. Lögg lök och bröd på toppen. Bryt baconet lite och skingra över och ät genast.",
+      "kcal 498 fett 37 g mättat 7 g kolhydrater 27 g socker 12 g fiber 8 g protein 14 g salt 2,3 g"
+    ],
+    "image": "./Bilder/Thumbnails/BaconSalad.jpg"
+  },
+  {
+    "name": "Rostbiff",
+    "categories": "Kött",
+    "persons": 4,
+    "description": "Juicy Roast for Dinner Parties",
+    "firstIngredient": [
+      {
+        "name": "Soltorkade tomater i olja",
+        "units": 1,
+        "measuringUnit": "g",
+        "EqGrams": 1
+      }
+    ],
+    "ingredients": [
+      {
+        "name": "Nötkött",
+        "units": 2,
+        "measuringUnit": "kg",
+        "EqGrams": 0
+      },
+      {
+        "name": "Morot",
+        "units": 2,
+        "measuringUnit": "st",
+        "EqGrams": 0
+      },
+      {
+        "name": "Oliv Olja",
+        "units": 1,
+        "measuringUnit": "tsk",
+        "EqGrams": 0
+      },
+      {
+        "name": "Engelskt Senapspulver",
+        "units": 1,
+        "measuringUnit": "tsk",
+        "EqGrams": 0
+      },
+      {
+        "name": "Sharlottenlök",
+        "units": 12,
+        "measuringUnit": "st",
+        "EqGrams": 0
+      },
+      {
+        "name": "Kalvbuljong",
+        "units": 500,
+        "measuringUnit": "ml",
+        "EqGrams": 0
+      }
+    ],
+    "instructions": [
+      "Värm ugnen till 220C / 200C. Torka köttet med kökspapper och gnid sedan oljan över det. Blanda senapspulveret med havsaltet och 1 tsk paprika och gnid det här över köttet. Sätt morötterna i en stor rostning tenn för att göra en trivet och sitta nötköttet på toppen, fet sida upp. ",
+      "Stek i 15 minuter, vrid sedan värmen ner till 180C / 160C fläkt och stek i ytterligare 55 minuter. (En termometer insatt i den tjockaste delen av nötköttet bör läsa 65C). ",
+      "Med 30 minuter matlagningstid kvar, basta biffen i fettet som har samlat i tennet, tillsätt skaloterna och vikbladen och belägga dessa i fettet. Säsong och återgå till ugnen. Koka samtidigt vinet i en liten kastrull för att minska den med två tredjedelar. ",
+      "När köttet är klart, överför det till ett bräde, täck det löst med folie och låt det vila. Vrid ugnen upp till 200C / 180C och sätt tillbaka plåten i ugnen i ytterligare 10-15 minuter tills sharlottenlökarna är mjuka.",
+      "Skruva ut sharlottenlökarna med en slitsad sked och lägg åt sidan för att hålla varma. Ta bort det överflödiga fettet från plåten och släng det, lämna 1 msk fett och alla mörka juicer bakom. Tillsätt mjölet och laga på spisen i 2 minuter, omrör Ständigt, vispa i det reducerade vinet, följt av lagret och röda vinbär, skrapa upp alla läckra bitar från botten av plåten. Koka tills det är tjockt och rikt, tillsätt saften från vilande kött och krydda sedan med smak. morötterna. Servera biffen med sås och sharlottenlökarna. ",
+      "kcal 594 fett 27g mättat 10g karbohydrater 10g sockerarter 5g fiber 2g protein 67g salt 1,4g"
+    ],
+    "image": "./Bilder/Thumbnails/RoastBeef.jpg"
+  },
+  {
+    "name": "Biff Stroganoff",
+    "categories": "Kött | Pasta",
+    "persons": 4,
+    "description": "Elegant Student Pasta",
+    "firstIngredient": [
+      {
+        "name": "Soltorkade tomater i olja",
+        "units": 1,
+        "measuringUnit": "g",
+        "EqGrams": 1
+      }
+    ],
+    "ingredients": [
+      {
+        "name": "Beef Rump Steak",
+        "units": 400,
+        "measuringUnit": "g",
+        "EqGrams": 0
+      },
+      {
+        "name": "Svamp",
+        "units": 300,
+        "measuringUnit": "g",
+        "EqGrams": 0
+      },
+      {
+        "name": "Sharlottenlök",
+        "units": 4,
+        "measuringUnit": "st",
+        "EqGrams": 0
+      },
+      {
+        "name": "Pardapelle Pasta",
+        "units": 400,
+        "measuringUnit": "g",
+        "EqGrams": 0
+      },
+      {
+        "name": "Kaljbuljong",
+        "units": 300,
+        "measuringUnit": "ml",
+        "EqGrams": 0
+      },
+      {
+        "name": "Tomatpure",
+        "units": 1,
+        "measuringUnit": "tsk",
+        "EqGrams": 0
+      },
+      {
+        "name": "Creme Fraiche",
+        "units": 3,
+        "measuringUnit": "tsk",
+        "EqGrams": 0
+      },
+      {
+        "name": "Färsk Persilja",
+        "units": 10,
+        "measuringUnit": "g",
+        "EqGrams": 0
+      }
+    ],
+    "instructions": [
+      "Frys biffen i 45 minuter innan du börjar, skiva så tunt som möjligt, krydda.",
+      "I en stor, non-stick stekpanna smälta hälften av smöret med hälften av oljan. Öka värmen, skör så snabbt nötköttet i satser tills det är brunt på båda sidor. Ta bort köttet och lägg åt sidan. Upprepa med svampen, sedan lägg åt sidan med nötköttet. Koka pastan. ",
+      "Tillsätt resterande smör och olja till pannan och mjuka sjalotten i några minuter. Smörj mjölet i 1 minut, rör sedan gradvis i lagret. Bubbla i 5 minuter tills det är tjockt, rör sedan om senap, puré, crème frakt och kryddor. Bubbla i 1 min mer, återför sedan nötköttet och svampen till pannan. ",
+      "Töm pastan, tillsätt en halv persilja, krydda, servera sedan med den krämiga stroganoffen, strö med den kvarvarande persiljan.",
+      "kcal 614 fett 18g mättat 7g kolhydrater 81g sockerarter 4g fiber 0g protein 38g salt 0.94g"
+    ],
+    "image": "./Bilder/Thumbnails/BeefStroganoff.jpg"
+  },
+  {
+    "name": "Kycklingspätt",
+    "categories": "Kyckling",
+    "persons": 4,
+    "description": "The perfect Snack",
+    "firstIngredient": [
+      {
+        "name": "Soltorkade tomater i olja",
+        "units": 1,
+        "measuringUnit": "g",
+        "EqGrams": 1
+      }
+    ],
+    "ingredients": [
+      {
+        "name": "Kycklingbröst",
+        "units": 4,
+        "measuringUnit": "st",
+        "EqGrams": 0
+      },
+      {
+        "name": "Oregano",
+        "units": 1,
+        "measuringUnit": "st",
+        "EqGrams": 0
+      },
+      {
+        "name": "Tortillia Wraps",
+        "units": 4,
+        "measuringUnit": "st",
+        "EqGrams": 0
+      },
+      {
+        "name": "Röd Paprika",
+        "units": 1,
+        "measuringUnit": "st",
+        "EqGrams": 0
+      },
+      {
+        "name": "Gul Paprika",
+        "units": 1,
+        "measuringUnit": "st",
+        "EqGrams": 0
+      },
+      {
+        "name": "Tzatsiki Sås",
+        "units": 2,
+        "measuringUnit": "dl",
+        "EqGrams": 0
+      },
+      {
+        "name": "Vitlöksklyfta",
+        "units": 1,
+        "measuringUnit": "st",
+        "EqGrams": 0
+      }
+    ],
+    "instructions": [
+      "Träck åtta bambusspett i vattnet. Använd skarpa köksskor, dela kycklingen i små bitar. Poppa i en plastlåda med lock. Pareremsor av citronskal från citronen med en grönsaksskalare, så safa citronen också. både skalen och saften till kycklingen i lådan tillsammans med oregano och vitlök, krossad i. Säsong generöst, blanda och sätt i kylskåpet i 15 minuter med locket på. Deseed och hugga paprikorna i lika stora bitar till de av kycklingen. ",
+      "Värm en griddle pan till hög medan du får kycklingen ut. Släng citronskalet och träng kycklingen på spettarna, växla varje par bitar kyckling med en bit röd paprika följt av en bit gul peppar. Griddle i 10 minuter , väntar halvvägs. ",
+      "Medan spettarna gör matlagning, gör du tzatziki. Skaffa en låda och en skål. Skär gurka i långa längder, skrapa den vattna smutsiga kärnan. Skaka in i skålen, grädda sedan ¼ vitlöksklyfta. Säsong generöst och rör in Grekisk yoghurt. Drizzle med lite extra jungfruolja. ",
+      "Servera spettarna varma av grillen med dopp eller ta kyckling och paprika av spettarna, låt dem svalna och packa in fullkornswrap spridas med lite tzatziki och rullas upp med spenat och några plockade persilja.",
+      "kcal 137 fett 5g mättat 2g karbohydrater 3g sockerarter 3g fiber 1g protein 20g salt 0,1g"
+    ],
+    "image": "./Bilder/Thumbnails/ChickenSkewers.jpg"
+  },
+  {
+    "name": "Oregano Kyckling",
+    "categories": "Kyckling",
+    "persons": 4,
+    "description": "Easy Weekday Dinner",
+    "firstIngredient": [
+      {
+        "name": "Soltorkade tomater i olja",
+        "units": 1,
+        "measuringUnit": "g",
+        "EqGrams": 1
+      }
+    ],
+    "ingredients": [
+      {
+        "name": "Kyckling Drumsticks",
+        "units": 8,
+        "measuringUnit": "st",
+        "EqGrams": 0
+      },
+      {
+        "name": "Oregano",
+        "units": 1,
+        "measuringUnit": "tsk",
+        "EqGrams": 0
+      },
+      {
+        "name": "Sparris",
+        "units": 180,
+        "measuringUnit": "g",
+        "EqGrams": 0
+      },
+      {
+        "name": "Oliv Olja",
+        "units": 0.5,
+        "measuringUnit": "tsk",
+        "EqGrams": 0
+      },
+      {
+        "name": "Kummin Frön",
+        "units": 2,
+        "measuringUnit": "tsk",
+        "EqGrams": 0
+      },
+      {
+        "name": "Squash",
+        "units": 1,
+        "measuringUnit": "st",
+        "EqGrams": 0
+      }
+    ],
+    "instructions": [
+      "Värm ugnen till 220C / 200C. Mäta 1½ msk olja från grillat kronärtskockspaket. Blanda det med olivolja, oregano och kummin. Sätt kycklingstrumporna och squash i ett stort stekpannor, släng i den aromatiserade oljan och lite krydda.",
+      "Steka i ugnen i 45 minuter tills den är mjukt och gyllene, och välj sedan kronärtskockorna och oliverna i pannan. Ge allt en bra blandning, sätt tillbaka till ugnen i 5 minuter för att värma genom. Rör genom raketen och servera.",
+      "kcal 357 fett 21g mättat 4g kolhydrater 12g sockerarter 6g fiber 6g protein 27g salt 2,1g"
+    ],
+    "image": "./Bilder/Thumbnails/OreganoChicken.jpg"
+  },
+  {
+    "name": "Kyckling Madras",
+    "categories": "Kyckling",
+    "persons": 4,
+    "description": "Wonderful Combination of Chicken and Tomatoes",
+    "firstIngredient": [
+      {
+        "name": "Soltorkade tomater i olja",
+        "units": 1,
+        "measuringUnit": "g",
+        "EqGrams": 1
+      }
+    ],
+    "ingredients": [
+      {
+        "name": "Lök",
+        "units": 1,
+        "measuringUnit": "st",
+        "EqGrams": 0
+      },
+      {
+        "name": "Vitlöksklyfta",
+        "units": 2,
+        "measuringUnit": "st",
+        "EqGrams": 0
+      },
+      {
+        "name": "Solros Olja",
+        "units": 1,
+        "measuringUnit": "tsk",
+        "EqGrams": 0
+      },
+      {
+        "name": "Hackade Tomater",
+        "units": 400,
+        "measuringUnit": "g",
+        "EqGrams": 0
+      },
+      {
+        "name": "Kycklingbröst",
+        "units": 4,
+        "measuringUnit": "st",
+        "EqGrams": 0
+      },
+      {
+        "name": "Röd Chilli",
+        "units": 1,
+        "measuringUnit": "st",
+        "EqGrams": 0
+      }
+    ],
+    "instructions": [
+      "Blitz 1 kvartvislök, 2 vitlöksklyftor, ½ röd chili tillsammans i en matberedare tills det blir en grov pasta.",
+      "Värm 1 msk vegetabilisk olja i en stor kastrull och lägg i pastaen, stek i 5 minuter tills den mjukade. Om det börjar hålla fast vid pannan, lägg till ett stänk vatten.",
+      "Tippa i ½ tsk gurkmeja, 1 tsk malda kummin, 1 tsk malda koriander och 1-2 tsk varm chili pulver och rör om, koka i ett par minuter för att rosta dem lite, lägg sedan till 4 kycklingbröst, skuren i bitar. Rör och se till att allt är täckt i kryddblandningen. ",
+      "Koka tills kycklingen börjar bli blek och tillsätt ett litet vattenstänk om det håller sig fast vid panelen.",
+      "Häll i 400g kan hackade tomater, tillsammans med en stor nypa salt, täck och koka på låg värme i 30 minuter tills kycklingen är öm.",
+      "Rör genom små pack med koriander och servera med ris, naan och en stor dollop mango chutney.",
+      "kcal 373 fett 17g mättat 4g kolhydrater 9g sockerarter 8g fiber 3g protein 43g salt 0,7g"
+    ],
+    "image": "./Bilder/Thumbnails/ChickenMadras.jpg"
+  },
+  {
+    "name": "Fisksoppa",
+    "categories": "Fisk",
+    "persons": 4,
+    "description": "A Must for Every Seafood Lover",
+    "firstIngredient": [
+      {
+        "name": "Soltorkade tomater i olja",
+        "units": 1,
+        "measuringUnit": "g",
+        "EqGrams": 1
+      }
+    ],
+    "ingredients": [
+      {
+        "name": "Morot",
+        "units": 2,
+        "measuringUnit": "st",
+        "EqGrams": 0
+      },
+      {
+        "name": "Fänkålsfrön",
+        "units": 1,
+        "measuringUnit": "tsk",
+        "EqGrams": 0
+      },
+      {
+        "name": "Oliv Olja",
+        "units": 1,
+        "measuringUnit": "tsk",
+        "EqGrams": 0
+      },
+      {
+        "name": "Selleri",
+        "units": 2,
+        "measuringUnit": "st",
+        "EqGrams": 0
+      },
+      {
+        "name": "Vitlöksklyfta",
+        "units": 2,
+        "measuringUnit": "st",
+        "EqGrams": 0
+      },
+      {
+        "name": "Hackade Tomater",
+        "units": 400,
+        "measuringUnit": "g",
+        "EqGrams": 0
+      },
+      {
+        "name": "Fiskbuljong",
+        "units": 500,
+        "measuringUnit": "ml",
+        "EqGrams": 0
+      },
+      {
+        "name": "Pollok File",
+        "units": 2,
+        "measuringUnit": "st",
+        "EqGrams": 0
+      },
+      {
+        "name": "Kungsräkor",
+        "units": 85,
+        "measuringUnit": "g",
+        "EqGrams": 0
+      },
+      {
+        "name": "Purjolök",
+        "units": 2,
+        "measuringUnit": "st",
+        "EqGrams": 0
+      }
+    ],
+    "instructions": [
+      "Värm oljan i en stor panna, lägg fänkålfrön, morötter, selleri och vitlök och koka i 5 minuter tills det börjar mjukna. Tippa i purjolök, tomater och lager, krydda och koka, täck och simma i 15-20 minuter tills grönsakerna är ömma och såsen har förtjockats och minskat något. ",
+      "Lägg till fisken, sprid över räkorna och koka i 2 minuter tills det är lätt kokt. Låt i skålar och servera med en sked.",
+      "kcal 346 fett 8g mättat 1g karbohydrater 20g sockerarter 17g fiber 11g protein 42g salt 1,7g"
+    ],
+    "image": "./Bilder/Thumbnails/FishStew.jpg"
+  },
+  {
+    "name": "Fisk Mappas",
+    "categories": "Fisk",
+    "persons": 4,
+    "description": "Simple but Elegant",
+    "firstIngredient": [
+      {
+        "name": "Soltorkade tomater i olja",
+        "units": 1,
+        "measuringUnit": "g",
+        "EqGrams": 1
+      }
+    ],
+    "ingredients": [
+      {
+        "name": "Basmati Ris",
+        "units": 300,
+        "measuringUnit": "g",
+        "EqGrams": 0
+      },
+      {
+        "name": "Lök",
+        "units": 2,
+        "measuringUnit": "st",
+        "EqGrams": 0
+      },
+      {
+        "name": "Oliv Olja",
+        "units": 1,
+        "measuringUnit": "tsk",
+        "EqGrams": 0
+      },
+      {
+        "name": "Vitlöksklyfta",
+        "units": 2,
+        "measuringUnit": "st",
+        "EqGrams": 0
+      },
+      {
+        "name": "Tomater",
+        "units": 450,
+        "measuringUnit": "g",
+        "EqGrams": 0
+      },
+      {
+        "name": "Kokosmjölk",
+        "units": 400,
+        "measuringUnit": "g",
+        "EqGrams": 0
+      },
+      {
+        "name": "Pollok File",
+        "units": 4,
+        "measuringUnit": "st",
+        "EqGrams": 0
+      },
+      {
+        "name": "Currypasta",
+        "units": 3,
+        "measuringUnit": "tsk",
+        "EqGrams": 0
+      }
+    ],
+    "instructions": [
+      "Sätt en stor vattenpanna med vatten och koka riset enligt förpackningsinstruktionerna. Värm oljan i en stor brett kastrull över en medium värme och sätt i lökarna. Koka i 5-10 minuter tills det mättas och börjar färga Lägg till vitlök och tomater och stek i 2 minuter. Sätt i currypastaen, stek 2 minuter mer, häll sedan i kokosmjölken och koka den. ",
+      "Lägg fisken i pannan och simma försiktigt i 5-8 minuter tills du bara kokar genom. Stäng av värmen. Stänk korianderen över curry och servera med riset.",
+      "kcal 691 fett 26g mättat 16g kolhydrater 74g sockerarter 11g fiber 4g protein 39g salt 0,8g"
+    ],
+    "image": "./Bilder/Thumbnails/FishMappas.jpg"
+  },
+  {
+    "name": "Fisk Tacos",
+    "categories": "Fisk",
+    "persons": 4,
+    "description": "Perfect for the Kids",
+    "firstIngredient": [
+      {
+        "name": "Soltorkade tomater i olja",
+        "units": 1,
+        "measuringUnit": "g",
+        "EqGrams": 1
+      }
+    ],
+    "ingredients": [
+      {
+        "name": "Citronstubbar",
+        "units": 220,
+        "measuringUnit": "g",
+        "EqGrams": 0
+      },
+      {
+        "name": "Chipotle Pasta",
+        "units": 1,
+        "measuringUnit": "tsk",
+        "EqGrams": 0
+      },
+      {
+        "name": "Majonnäs",
+        "units": 6,
+        "measuringUnit": "tsk",
+        "EqGrams": 0
+      },
+      {
+        "name": "Tortillia",
+        "units": 4,
+        "measuringUnit": "st",
+        "EqGrams": 0
+      },
+      {
+        "name": "Kål",
+        "units": 175,
+        "measuringUnit": "g",
+        "EqGrams": 0
+      },
+      {
+        "name": "Röd Lök",
+        "units": 1,
+        "measuringUnit": "st",
+        "EqGrams": 0
+      }
+    ],
+    "instructions": [
+      "Värm ugnen till 220C / 200C fläkt / gas 7. Placera guldjonären på en bakplåt och baka i 12-15 minuter, följ instruktionerna förpackning, tills den är spröd. Samtidigt blanda chipotle eller harissa i mayo och värm tortillorna - de värms bäst över en gasflamma. ",
+      "För att göra salladen, kasta kål, koriander och lök med limejuice och lite salt.",
+      "Sprid tortillorna med en lite kryddig mayo, lägg sedan salladen och fisk ner i mitten. Torka upp med lite mer mayo, vika och äta med fingrarna. Servera med lime wedges, om du vill.",
+      "kcal 312 fett 15g mättat 2g karbohydrater 34g sockerarter 5g fiber 3g protein 13g salt 1,2g"
+    ],
+    "image": "./Bilder/Thumbnails/FishTacos.jpg"
+  },
+  {
+    "name": "Vegetarisk Gryta",
+    "categories": "Vegetariskt",
+    "persons": 4,
+    "description": "The Veggie Choice",
+    "firstIngredient": [
+      {
+        "name": "Soltorkade tomater i olja",
+        "units": 1,
+        "measuringUnit": "g",
+        "EqGrams": 1
+      }
+    ],
+    "ingredients": [
+      {
+        "name": "Lök",
+        "units": 1,
+        "measuringUnit": "st",
+        "EqGrams": 0
+      },
+      {
+        "name": "Vitlöksklyfta",
+        "units": 3,
+        "measuringUnit": "st",
+        "EqGrams": 0
+      },
+      {
+        "name": "Rökt Paprika",
+        "units": 1,
+        "measuringUnit": "tsk",
+        "EqGrams": 0
+      },
+      {
+        "name": "Kummin",
+        "units": 0.5,
+        "measuringUnit": "tsk",
+        "EqGrams": 0
+      },
+      {
+        "name": "Timjan",
+        "units": 1,
+        "measuringUnit": "tsk",
+        "EqGrams": 0
+      },
+      {
+        "name": "Selleri Sticks",
+        "units": 2,
+        "measuringUnit": "st",
+        "EqGrams": 0
+      },
+      {
+        "name": "Röd Paprika",
+        "units": 1,
+        "measuringUnit": "st",
+        "EqGrams": 0
+      },
+      {
+        "name": "Gul Paprika",
+        "units": 1,
+        "measuringUnit": "st",
+        "EqGrams": 0
+      },
+      {
+        "name": "Tomater Burk",
+        "units": 800,
+        "measuringUnit": "g",
+        "EqGrams": 0
+      },
+      {
+        "name": "Grönsaksbuljong",
+        "units": 250,
+        "measuringUnit": "ml",
+        "EqGrams": 0
+      },
+      {
+        "name": "Zucchini",
+        "units": 2,
+        "measuringUnit": "st",
+        "EqGrams": 0
+      },
+      {
+        "name": "Linser",
+        "units": 250,
+        "measuringUnit": "g",
+        "EqGrams": 0
+      },
+      {
+        "name": "Morot",
+        "units": 3,
+        "measuringUnit": "st",
+        "EqGrams": 0
+      }
+    ],
+    "instructions": [
+      "Värm 1 msk olivolja eller rapsolja i en stor, tungbaserad panna. Lägg 1 finhackad lök och laga försiktigt i 5 - 10 min tills mjukad.",
+      "Tillsätt 3 skivade vitlöksklyftor, 1 tsk rökt paprika, ½ tsk matkummin, 1 msk torkad timjan, 3 skivade morötter, 2 finskivad selleripinnar, 1 hackad rödpeppar och 1 hackad gul peppar och koka i 5 minuter.",
+      "Lägg till två 400 g burkar tomater, 250 ml grönsaksbestånd (gjord med 1 lagerpott), 2 tjockt skivade courgetter och 2 sprigs färsk timjan och laga mat i 20-25 minuter.",
+      "Ta ut timjanpigarna. Rör i 250 g kokta linser och sätt tillbaka till en simmer. Servera med vitt och vitt basmati-ris, mos eller quinoa.",
+      "kcal 216 fett 5,1 g mättat 0,7 g kolhydrater 31 g sockerarter 16,1 g fiber 9,8 g protein 12,3 g salt 1,6 g"
+    ],
+    "image": "./Bilder/Thumbnails/VegetarianCasserole.jpg"
+  },
+  {
+    "name": "Vegetariskt Club Sandwich",
+    "categories": "Vegetariskt",
+    "persons": 4,
+    "description": "Ultimate Sunday Breakfast",
+    "firstIngredient": [
+      {
+        "name": "Soltorkade tomater i olja",
+        "units": 1,
+        "measuringUnit": "g",
+        "EqGrams": 1
+      }
+    ],
+    "ingredients": [
+      {
+        "name": "Brödskivor Fullkorn",
+        "units": 12,
+        "measuringUnit": "st",
+        "EqGrams": 0
+      },
+      {
+        "name": "Vattenkrasse",
+        "units": 100,
+        "measuringUnit": "g",
+        "EqGrams": 0
+      },
+      {
+        "name": "Oliv Olja",
+        "units": 2,
+        "measuringUnit": "tsk",
+        "EqGrams": 0
+      },
+      {
+        "name": "Morot",
+        "units": 2,
+        "measuringUnit": "st",
+        "EqGrams": 0
+      },
+      {
+        "name": "Hummus",
+        "units": 8,
+        "measuringUnit": "tsk",
+        "EqGrams": 0
+      },
+      {
+        "name": "Skivad Tomat",
+        "units": 8,
+        "measuringUnit": "st",
+        "EqGrams": 0
+      }
+    ],
+    "instructions": [
+      "Rostat brödet, blanda ihop vattenkryddor, morot, citronsaft och olivolja. I en liten skål sprida hummusen över varje skiva toast. Topp 1 skiva med vattenkryddor och morotsallad, smörgås med en annan skiva toast och topp med tomaten. Lägg den sista skivan bröd, hummus sidan neråt, tryck sedan ner och äta som är eller skära smörgås i kvartaler. ",
+      "kcal 299 fett 7g mättat 1g kolhydrater 50g sockerarter 15g fiber 7g protein 11g salt 1.5g"
+    ],
+    "image": "./Bilder/Thumbnails/VegetarianClub.jpg"
+  },
+  {
+    "name": "Vegetariskt Courgette",
+    "categories": "Vegetariskt",
+    "persons": 4,
+    "description": "When Only Vegetables are Not Enough",
+    "firstIngredient": [
+      {
+        "name": "Soltorkade tomater i olja",
+        "units": 1,
+        "measuringUnit": "g",
+        "EqGrams": 1
+      }
+    ],
+    "ingredients": [
+      {
+        "name": "Lasange Plattor",
+        "units": 9,
+        "measuringUnit": "st",
+        "EqGrams": 0
+      },
+      {
+        "name": "Lök",
+        "units": 1,
+        "measuringUnit": "st",
+        "EqGrams": 0
+      },
+      {
+        "name": "Solrosolja",
+        "units": 1,
+        "measuringUnit": "tsk",
+        "EqGrams": 0
+      },
+      {
+        "name": "Zucchini",
+        "units": 700,
+        "measuringUnit": "g",
+        "EqGrams": 0
+      },
+      {
+        "name": "Vitlöksklyfta",
+        "units": 2,
+        "measuringUnit": "st",
+        "EqGrams": 0
+      },
+      {
+        "name": "Cheddar",
+        "units": 50,
+        "measuringUnit": "g",
+        "EqGrams": 0
+      },
+      {
+        "name": "Tomatsås",
+        "units": 350,
+        "measuringUnit": "g",
+        "EqGrams": 0
+      },
+      {
+        "name": "Ricotta",
+        "units": 250,
+        "measuringUnit": "g",
+        "EqGrams": 0
+      }
+    ],
+    "instructions": [
+      "Värm ugnen till 220C / fläkt 200C / gas 7. Ställ en panna med vatten och koka sedan lasagnarkorna i ca 5 minuter tills de mättas men inte kokas genom. Skölj i kallt vatten, drika sedan med lite olja till stoppa dem som sticker ihop. ",
+      "Under tiden värm oljan i en stor stekpanna och stek sedan löken. Efter 3 minuter lägger du till frön och vitlök och fortsätter att steka tills zucchinen har mjukat och blivit ljusgrön. Rör om 2/3 av både ricotta och cheddaren, krydda sedan till smak. Värm tomatsås i mikrovågsugnen i 2 minuter på Hög tills det är varmt. ",
+      "I en stor bakfat, lägg upp lasagnen, börja med halva zucchini-blandningen, sedan pasta, sedan tomatsås. Repetera, toppa med blobs av resterande ricotta, sprid sedan med resten av cheddaren. Baka på den övre hylla i ca 10 minuter tills pastan är öm och osten är gyllene. ",
+      "kcal 405 fett 21g mättat 8g kolhydrater 38g sockerarter 13g fiber 4g protein 18g salt 1,36g"
+    ],
+    "image": "./Bilder/Thumbnails/VegetarianCourgette.jpg"
+  },
+  {
+    "name": "Springtime Pasta",
+    "categories": "Pasta",
+    "persons": 4,
+    "description": "Springtime!",
+    "firstIngredient": [
+      {
+        "name": "Soltorkade tomater i olja",
+        "units": 1,
+        "measuringUnit": "g",
+        "EqGrams": 1
+      }
+    ],
+    "ingredients": [
+      {
+        "name": "Ricotta & Spenat Tortellini",
+        "units": 250,
+        "measuringUnit": "g",
+        "EqGrams": 0
+      },
+      {
+        "name": "Ärtor",
+        "units": 50,
+        "measuringUnit": "g",
+        "EqGrams": 0
+      },
+      {
+        "name": "Bönor",
+        "units": 50,
+        "measuringUnit": "g",
+        "EqGrams": 0
+      },
+      {
+        "name": "Oliv Olja",
+        "units": 1,
+        "measuringUnit": "tsk",
+        "EqGrams": 0
+      },
+      {
+        "name": "Ricotta",
+        "units": 50,
+        "measuringUnit": "g",
+        "EqGrams": 0
+      },
+      {
+        "name": "Citronskal",
+        "units": 1,
+        "measuringUnit": "tsk",
+        "EqGrams": 0
+      }
+    ],
+    "instructions": [
+      "Sätt i en panna med saltat vatten till koka. Tippa i pastaen, koka i 3-4 minuter. Sätt i de frysta ärterna och bönorna, koka sedan i 1 min mer för att värma genom. Tappa väl och kasta sedan genom olivoljan och citronzest. Placera på tallrikar, dollop över ricotta ",
+      "kcal 472 fett 19g mättat 8,8g kolhydrater 62g socker 5g fiber 5g protein 18g salt 1,34g"
+    ],
+    "image": "./Bilder/Thumbnails/SpringtimePasta.jpg"
+  },
+  {
+    "name": "Sparris Pasta",
+    "categories": "Pasta",
+    "persons": 4,
+    "description": "Delicious and Healthy Pasta",
+    "firstIngredient": [
+      {
+        "name": "Soltorkade tomater i olja",
+        "units": 1,
+        "measuringUnit": "g",
+        "EqGrams": 1
+      }
+    ],
+    "ingredients": [
+      {
+        "name": "Sparris",
+        "units": 12,
+        "measuringUnit": "st",
+        "EqGrams": 0
+      },
+      {
+        "name": "Vispgrädde",
+        "units": 140,
+        "measuringUnit": "ml",
+        "EqGrams": 0
+      },
+      {
+        "name": "Vitlöksklyfta",
+        "units": 2,
+        "measuringUnit": "st",
+        "EqGrams": 0
+      },
+      {
+        "name": "Parmesan",
+        "units": 50,
+        "measuringUnit": "g",
+        "EqGrams": 0
+      },
+      {
+        "name": "Tagliatelle",
+        "units": 250,
+        "measuringUnit": "g",
+        "EqGrams": 0
+      }
+    ],
+    "instructions": [
+      "Förbereda sparris, skära av och kasta bort de träiga ändarna, så snygga spetsarna bort från stjälkarna. Håll spetsarna och stjälkarna åtskilda. I en liten kastrull sätter du grädden och vitlöket i koka. Ta av värmen, ta av vitlöket, sätt sedan panen åt sidan. ",
+      "Koka stalkerna i kokande saltat vatten i ca 4-5 minuter tills de är mjuka, dränera, tippa sedan in i grädden med den riven parmesan. Blitz med en bländare tills det är slät.",
+      "Koka pastan enligt förpackningsinstruktionerna och släng sedan in spetsarna 2 minuter före utgången av tillagningstiden. Värm försiktigt upp grädden, töm pastaen och tippa in i en skål med grädden. Kasta in i pastaskålar, topp med parmesan spån och servera. ",
+      "kcal 931 fett 47 g mättat 26 g kolhydrater 100 g socker 5 g fiber 5 g protein 28 g salt 0,53 g"
+    ],
+    "image": "./Bilder/Thumbnails/AsparagusPasta.jpg"
+  },
+  {
+    "name": "Deli Pasta Sallad",
+    "categories": "Pasta",
+    "persons": 4,
+    "description": "Pasta Salad Deluxe",
+    "firstIngredient": [
+      {
+        "name": "Soltorkade tomater i olja",
+        "units": 1,
+        "measuringUnit": "g",
+        "EqGrams": 1
+      }
+    ],
+    "ingredients": [
+      {
+        "name": "Fjärilspasta",
+        "units": 300,
+        "measuringUnit": "g",
+        "EqGrams": 0
+      },
+      {
+        "name": "Ärtor",
+        "units": 200,
+        "measuringUnit": "g",
+        "EqGrams": 0
+      },
+      {
+        "name": "Oliv Olja",
+        "units": 2,
+        "measuringUnit": "tsk",
+        "EqGrams": 0
+      },
+      {
+        "name": "Tomater",
+        "units": 1,
+        "measuringUnit": "st",
+        "EqGrams": 0
+      },
+      {
+        "name": "Vitvins Vinäger",
+        "units": 2,
+        "measuringUnit": "tsk",
+        "EqGrams": 0
+      },
+      {
+        "name": "Salami",
+        "units": 85,
+        "measuringUnit": "g",
+        "EqGrams": 0
+      },
+      {
+        "name": "Soltorkade Tomater",
+        "units": 10,
+        "measuringUnit": "st",
+        "EqGrams": 0
+      },
+      {
+        "name": "Vitlöksklyfta",
+        "units": 2,
+        "measuringUnit": "st",
+        "EqGrams": 0
+      }
+    ],
+    "instructions": [
+      "Koka PASTA: Koka pastan i saltat vatten i 8 minuter, tillsätt sedan ärterna, sätt tillbaka vattnet i koka och koka i 2 minuter tills pasta och ärter är ömda. Tippa i en kolsyrare över diskbänken, kyla pastaen och ärter under den kalla kranen dräneras mycket bra. ",
+      "KROLLERA: Medan pastaen kokar grovt hugger du tomaten och lägger in en matberedare med halva soltorkade tomater, olivolja, ättika, vitlök och ca 8 basilika blad. Säsong med mycket salt och nybakad peppar smör sedan tills det är smalt. Tippa in i en stor salladsskål. ",
+      "TÄCK OCH SERVER: Lägg pastaen och ärterna på förbandet, grovt skiv resten av de soltorkade tomaten och lägg till pastaen med de återstående basilikbladen. Tår i prosciutto eller salami och kasta allt tillsammans. Häll i skålar och , om möjligt, äta ute. ",
+      "kcal 426 fett 12g mättat 2g kolhydrater 64g socker 0g fiber 6g protein 19g salt 1,68g"
+    ],
+    "image": "./Bilder/Thumbnails/DeliPastaSalad.jpg"
+  },
+  {
+    "name": "Kokosmuffins",
+    "categories": "Dessert",
+    "persons": 4,
+    "description": "Cupcakes for Every Occasion",
+    "firstIngredient": [
+      {
+        "name": "Soltorkade tomater i olja",
+        "units": 1,
+        "measuringUnit": "g",
+        "EqGrams": 1
+      }
+    ],
+    "ingredients": [
+      {
+        "name": "Kokosmjölk",
+        "units": 400,
+        "measuringUnit": "g",
+        "EqGrams": 0
+      },
+      {
+        "name": "Glasyr",
+        "units": 140,
+        "measuringUnit": "g",
+        "EqGrams": 0
+      },
+      {
+        "name": "Vanilj Pasta",
+        "units": 1,
+        "measuringUnit": "tsk",
+        "EqGrams": 0
+      },
+      {
+        "name": "Kokosflingor",
+        "units": 50,
+        "measuringUnit": "g",
+        "EqGrams": 0
+      },
+      {
+        "name": "Kokosolja",
+        "units": 100,
+        "measuringUnit": "g",
+        "EqGrams": 0
+      },
+      {
+        "name": "Ägg",
+        "units": 3,
+        "measuringUnit": "st",
+        "EqGrams": 0
+      },
+      {
+        "name": "Mjöl",
+        "units": 200,
+        "measuringUnit": "g",
+        "EqGrams": 0
+      },
+      {
+        "name": "Socker",
+        "units": 225,
+        "measuringUnit": "g",
+        "EqGrams": 0
+      }
+    ],
+    "instructions": [
+      "Torka burken med kokosmjölk över natten. Nästa dag, gör kakorna. Värm ugnen till 180C / 160C fläkt / gas 4 och linja en 12-håls muffinform med muffinsfall. Sätt kokosnötoljan och sockret i en stor skål och använd en elektrisk visp för att slå ihop i ca 5 minuter tills det är lätt och krämig. Tillsätt äggen, en i taget, tills de är helt kombinerade innan du lägger till mer. Arbeta i tre tillsatser, tillsätt mjölet, alternerande med kokosmjölken och lägg sedan till vanilj extraktet. ",
+      "Skåpa smeten i den beredda muffinbladen med en glassskopa, baka sedan i 20-22 minuter eller tills kakorna är gyllene och en spett som sitter i mitten kommer ren ut. Ta bort muffinsna från tennet och kyla på en tråd kuggstång.",
+      "Piskad grädde görs bäst inom några timmars servering. Öppna burken med kokosmjölk upp och ner och häll av den tunna vätskan. Skaka den tjocka kokosmjölken i en stor skål, sätt till issockret och vanilj och vispa för 2-3 minuter tills mjuk och fluffig. Sprid eller skopa den vispgrädde på muffinsna och strö över den torkade kokosnoten. Bäst lagras i kylskåpet och ätit inom några dagar. ",
+      "kcal 388 fett 21g mättat 18g kolhydrater 45g sockerarter 31g fiber 1g protein 3g salt 0,1g"
+    ],
+    "image": "./Bilder/Thumbnails/CoconutCupcakes.jpg"
+  },
+  {
+    "name": "Brownie",
+    "categories": "Dessert",
+    "persons": 4,
+    "description": "Mans Best Friend",
+    "firstIngredient": [
+      {
+        "name": "Soltorkade tomater i olja",
+        "units": 1,
+        "measuringUnit": "g",
+        "EqGrams": 1
+      }
+    ],
+    "ingredients": [
+      {
+        "name": "Mörk Choklad",
+        "units": 515,
+        "measuringUnit": "g",
+        "EqGrams": 0
+      },
+      {
+        "name": "Smör",
+        "units": 425,
+        "measuringUnit": "g",
+        "EqGrams": 0
+      },
+      {
+        "name": "Socker",
+        "units": 500,
+        "measuringUnit": "g",
+        "EqGrams": 0
+      },
+      {
+        "name": "Ägg",
+        "units": 6,
+        "measuringUnit": "st",
+        "EqGrams": 0
+      },
+      {
+        "name": "Mjöl",
+        "units": 225,
+        "measuringUnit": "g",
+        "EqGrams": 0
+      },
+      {
+        "name": "Glasyr",
+        "units": 1,
+        "measuringUnit": "tsk",
+        "EqGrams": 0
+      }
+    ],
+    "instructions": [
+      "Smörj och lina en 30 cm x 21 cm tenn. Förvärm ugnen till 180C / 160C fläkt / gas 4. Bryt chokladet med smöret och smälta i mikrovågsugnen på medium i ca 5 minuter, rör sig halvvägs.",
+      "Smörj sockret och ägg i en skål. Rör i smält choklad, tillsätt mjölet och smaka bra. Häll i tennet och baka i 40-45 minuter, eller tills toppen ser papper och känns lite vobbig. Låt svalna i tennet. ",
+      "Om du gör pålägget bryter du upp chokladet med smöret och smälter i mikrovågsugnen på medium i ca 1 minut. Rör till jämn och sprid den över kakan. Damm med issocker och skär i rutor.",
+      "kcal 383 fett 24g mättat 14g karbohydrater 40g sockerarter 30g fiber 1g protein 4g salt 0,39g"
+    ],
+    "image": "./Bilder/Thumbnails/Brownie.jpg"
+  },
+  {
+    "name": "Halloween Kakor",
+    "categories": "Dessert",
+    "persons": 4,
+    "description": "Name Says it All",
+    "firstIngredient": [
+      {
+        "name": "Soltorkade tomater i olja",
+        "units": 1,
+        "measuringUnit": "g",
+        "EqGrams": 1
+      }
+    ],
+    "ingredients": [
+      {
+        "name": "Smör",
+        "units": 200,
+        "measuringUnit": "g",
+        "EqGrams": 0
+      },
+      {
+        "name": "Socker",
+        "units": 200,
+        "measuringUnit": "g",
+        "EqGrams": 0
+      },
+      {
+        "name": "Ägg",
+        "units": 1,
+        "measuringUnit": "st",
+        "EqGrams": 0
+      },
+      {
+        "name": "Vaniljextrakt",
+        "units": 0.5,
+        "measuringUnit": "tsk",
+        "EqGrams": 0
+      },
+      {
+        "name": "Mjöl",
+        "units": 400,
+        "measuringUnit": "g",
+        "EqGrams": 0
+      },
+      {
+        "name": "Popping Candy",
+        "units": 20,
+        "measuringUnit": "g",
+        "EqGrams": 0
+      },
+      {
+        "name": "Färgad Socker Pasta",
+        "units": 1,
+        "measuringUnit": "st",
+        "EqGrams": 0
+      },
+      {
+        "name": "Glasyr",
+        "units": 100,
+        "measuringUnit": "g",
+        "EqGrams": 0
+      },
+      {
+        "name": "Silver Kulor",
+        "units": 20,
+        "measuringUnit": "g",
+        "EqGrams": 0
+      }
+    ],
+    "instructions": [
+      "Värm ugnen till 200C / 180C fläkt / gas 6 och linjer ett bakplåt med bakpärm.",
+      "Sätt smöret i en skål och slå med elektriska beaters tills det är mjukt och krämigt. Slå i sockret, sedan ägget och vanilj och slutligen mjölet för att göra deg. Om degen känns lite kladdig, lägg till lite mer mjöl och knäda in. Vik i klädesfilmen och sätt i kylskåpet i en halvtimme. ",
+      "Tunga en yta och klippa bakverket i halva. Rulla ut en halv till 5 mm tjocklek. Använd en kakeskärare i form av ett spöke (eller någon spöklik formad skärare du gillar), skära ut 12 spökformer, vilket kommer att göra 4 kakor Sätt de snittade formerna på en bakplåt kantad med bakpapper och sätt tillbaka i kylskåpet. Repetera med den andra halvan av bakverket. Byt in i kylskåpet och ta bort de kylda spökkakorna. ",
+      "Med en mindre kniv eller en kniv skär ett spökformat hål i mitten av 4 kakor på brickan, det här är platsen för att lagra överraskningscentret! Sätt dessa kakor i ugnen för att baka i 10-12 minuter , tills blek men kokad genom. Överför till en trådhylla för att svalna. Repetera med det andra facket. ",
+      "När alla kakorna har svalnat helt, är de redo att monteras. Blanda issockret med 3 msk vatten och blanda väl. Det ska vara ganska tjockt, så tillsätt lite mer florsocker om blandningen är för rinnande. kakan utan centrum saknas och sprida eller rör lite isbildning runt kanten. Tryck på en kex med ett centrum som saknas ovanpå och sprinkla silverbollar i fickan som du har skapat (eller regnbågen strövar som ett alternativ, om du är servera till mycket små barn). Sprid glasyr på kakan på den andra kakan och tryck på en annan helkaka på toppen. Sätt åt sidan för att fasta. Se till att du lämnar dem ett tag så att de inte glider när du avslutar dekorationen . ",
+      "När kakorna känner sig fasta och glasyren har satt, använd sockerpastaen för att dekorera dem som du vill, rulla ut den, skära den till formen och toppa kakorna. Du kan behöva använda lite av glasyren för att klistra ner den Dekorera med ispennor om du vill. ",
+      "kcal 553 fett 22g mättat 14g kolhydrater 80g sockerarter 41g fiber 2g protein 6g salt 0.3g"
+    ],
+    "image": "./Bilder/Thumbnails/HalloweenBiscuits.jpg"
+  },
+  {
+    "name": "Appelpie",
+    "categories": "Desserts",
+    "persons": 4,
+    "description": "Grandmas Homemade",
+    "firstIngredient": [
+      {
+        "name": "Soltorkade tomater i olja",
+        "units": 1,
+        "measuringUnit": "g",
+        "EqGrams": 1
+      }
+    ],
+    "ingredients": [
+      {
+        "name": "Apple",
+        "units": 10,
+        "measuringUnit": "st",
+        "EqGrams": 1000
+      },
+      {
+        "name": "Cinnamon",
+        "units": 2,
+        "measuringUnit": "tsk",
+        "EqGrams": 10
+      }
+    ],
+    "instructions": "Chop the Apples Sprinkle cinnamon",
+    "image": "https://www.landolakes.com/RecipeManagementSystem/media/Recipe-Media-Files/Recipes/Retail/x17/16800-blue-ribbon-apple-pie-600x600.jpg?ext=.jpg"
+  },
+  {
+    "name": "Pannkakor",
+    "categories": "Desserts",
+    "persons": 4,
+    "description": "Platta Pannkakor",
+    "firstIngredient": [
+      {
+        "name": "Ägg konventionellt rått",
+        "units": 1,
+        "measuringUnit": "st",
+        "eqGrams": 60
+      }
+    ],
+    "ingredients": [
+      {
+        "name": "Mjölk",
+        "units": 2,
+        "measuringUnit": "dl",
+        "EqGrams": 200
+      }
+    ],
+    "instructions": "Mixa Smeten",
+    "image": "https://mittkok.expressen.se/wp-content/uploads/2014/01/pannkakor.jpg"
+  }
+]

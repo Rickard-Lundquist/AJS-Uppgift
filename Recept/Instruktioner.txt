@@ -1,0 +1,38 @@
+Användarnamn: admin
+Lösen: admin
+Start: cd Recept sedan node eller nodemon app.js
+
+Instruktioner: 
+OBS! "Categories" "Popular" "Recipe of The Day" är inte klara & är för tillfället bara för syns skull men de skiftar iallafall bakgrundsbild.
+Samt att jag upptäckte att mitt projekt inte laddats upp till självaste gitHub utan bara lämnat en tom mapp,
+var då tyvärr tvungen att ladda upp hela projektet utan kommentarer eller möjlighet till versionshantering.
+Kan dock berätta/skriva steg för steg så det går få en form av versionskoll utifall det skulle behövas.
+
+Under "Search" kan man söka efter recepten, den söker på Namn, Kategori, Ingredienser & i Beskrivningen.
+Det existerar 2 buggar som jag inte kunnat rätta till ännu, ibland om man är för snabb och trycker på "Search"
+så bytar den till antingen till bakgrundsbilden den annars ska skifta till per automatik eller så skrivs http://localhost:3000/Bilder/SearchFood.jpg
+uppe i adressfältet & då behöver man backa annars fungerar inte sökfunktionen.
+
+När man söker på recept & klickar på knappen visas receptet upp där man kan välja att skala ingredienserna efter antal personer som skall serveras,
+detta fungerar även på näringsvärdena (om jag hade fått dem att visas).
+
+Nederst i högra hörnet är "Login", logga in för att kunna lägga till nya recept.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+Kompletteringar/Kvarvarande Problem:
+
+Finsjusteringar som underlättar användarupplevelsen i sökmotorn, recepttillägg och recept uppvisning.
+
+Närinsvärde - Utskriftsproblem
+
+Skala näringsvärde efter personer - Är klart bara jag får ut utskriften.
+
+Dropmeny med måttenheter 95% - Få ej till att fungera pga nya ID som skapas vid knapptryck, löstes dock på alternativt vis *
+
+Sökning i livsmedelsdata vid ingredienstillägg 95% - Fungerar på första ingrediens tillägget men inte på resterande *
+
+* - De sista problemen som kvarstår beror mestadels på att jag inte klarat list ut (ännu) hur jag 
+kopplar mina funktioner till något som ännu inte skapats vid start utan som skapas vid knapptryck
+med unika ID och på så sätt så blir mina resultat/utskrifter bara tomma & utan felmeddelande eller dylikt 
+att felsöka efter.
